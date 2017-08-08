@@ -1,0 +1,3 @@
+#This driver file needs to have a function that is called to initiate the connection  using information passed to it.
+# must accept ip address, username, password, secondary password (enable). should return a connection object to be controlled by the application.
+
